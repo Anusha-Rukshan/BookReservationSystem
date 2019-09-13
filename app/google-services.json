@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986158014584",
+    "firebase_url": "https://bookreservationsystem-db15d.firebaseio.com",
+    "project_id": "bookreservationsystem-db15d",
+    "storage_bucket": "bookreservationsystem-db15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986158014584:android:739641358f04048b",
+        "android_client_info": {
+          "package_name": "com.example.bookreservationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986158014584-bakkpglcjr0p0ann50fvc35bmos4dk1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookreservationsystem",
+            "certificate_hash": "63eca007acb19cc4aa0d9135758479895716937b"
+          }
+        },
+        {
+          "client_id": "986158014584-bg7gb116rdo0qkg4he1sanfd4flbpucu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAtSPHOKN9q9pQp61MpD3GCIrkb1CJhxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986158014584-bg7gb116rdo0qkg4he1sanfd4flbpucu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

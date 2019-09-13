@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Book Reservation System</string>
+    <string name="Page_title">Admin Page</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="or">OR</string>
+    <string name="login">Login</string>
+    <string name="enter_username">Enter UserName</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="register_member_button">Register Member</string>
+    <string name="book_reservation_button">Book Reservation</string>
+    <string name="view_member_button">View Member</string>
+    <string name="member_area_button">Member Area</string>
+    <string name="member_area">Member Area</string>
+    <string name="register_member">Register Member</string>
+    <string name="name">Name</string>
+    <string name="nic">NIC</string>
+    <string name="mobile">Mobile</string>
+    <string name="register_button">Register</string>
+    <string name="book_name">Book Name</string>
+    <string name="add_new_book">Add New Book</string>
+    <string name="author_s_name">Author\'s Name</string>
+    <string name="published_year">Published Year</string>
+    <string name="add_button">ADD</string>
+    <string name="reserve_book">Reserve Book</string>
+    <string name="member_id">Member ID</string>
+    <string name="book_id">Book ID</string>
+    <string name="borrowing_date">Borrowing Date</string>
+    <string name="view_reserved_list_button">View reserved list</string>
+    <string name="save_button">Save</string>
+    <string name="view_books_button">View Books</string>
+    <string name="add_new_book_button">Add New Book</string>
+    <string name="update_book">update Book</string>
+    <string name="update_member">Update Member</string>
+    <string name="update_button">Update</string>
+    <string name="delete_button">Delete</string>
+    <string name="update_reservation">Update Reservation</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="view_books">View Books</string>
+    <string name="reserve_a_book">Reserve a Book</string>
+    <string name="view_members">View Members</string>
+    <string name="reserved_books">Reserved Books</string>
+
+</resources>
